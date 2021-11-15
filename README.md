@@ -1,9 +1,21 @@
-# Yandex Prakticum project work №2  
-The project was carried out as a project work from the Yandex Prakticum training  
-Technologies that were used:
-* flexbox layout
-* BEM methodology
-* Pseudo-elements and attribute selectors
-* Iframes
-* Transitions
-* Animations etc.
+# Проект: Научиться учиться
+
+Научиться учиться ‐ это страничка о техниках, методах и принципах обучения. 
+
+## Технологии, которые были применены:
+1. БЭМ методология
+2. Флексбокс верстка
+3. Анимации и трансформации
+
+## Стек
+1. HTML
+2. CSS
+
+
+**Ссылка на проект**
+* [Научиться учиться](https://adele94.github.io/how-to-learn/index.html)
+
+**Дизайн проекта**
+
+* [Ссылка на бриф](https://code.s3.yandex.net/web-developer/project-1/sprint-2-brief.pdf)
+
